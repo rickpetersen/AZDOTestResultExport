@@ -1,0 +1,15 @@
+/workspaces/AZDOTestResultExport/bin/Debug/net6.0/AZDOTestResultExport
+/workspaces/AZDOTestResultExport/bin/Debug/net6.0/AZDOTestResultExport.deps.json
+/workspaces/AZDOTestResultExport/bin/Debug/net6.0/AZDOTestResultExport.runtimeconfig.json
+/workspaces/AZDOTestResultExport/bin/Debug/net6.0/AZDOTestResultExport.dll
+/workspaces/AZDOTestResultExport/bin/Debug/net6.0/ref/AZDOTestResultExport.dll
+/workspaces/AZDOTestResultExport/bin/Debug/net6.0/AZDOTestResultExport.pdb
+/workspaces/AZDOTestResultExport/obj/Debug/net6.0/AZDOTestResultExport.csproj.AssemblyReference.cache
+/workspaces/AZDOTestResultExport/obj/Debug/net6.0/AZDOTestResultExport.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/AZDOTestResultExport/obj/Debug/net6.0/AZDOTestResultExport.AssemblyInfoInputs.cache
+/workspaces/AZDOTestResultExport/obj/Debug/net6.0/AZDOTestResultExport.AssemblyInfo.cs
+/workspaces/AZDOTestResultExport/obj/Debug/net6.0/AZDOTestResultExport.csproj.CoreCompileInputs.cache
+/workspaces/AZDOTestResultExport/obj/Debug/net6.0/AZDOTestResultExport.dll
+/workspaces/AZDOTestResultExport/obj/Debug/net6.0/ref/AZDOTestResultExport.dll
+/workspaces/AZDOTestResultExport/obj/Debug/net6.0/AZDOTestResultExport.pdb
+/workspaces/AZDOTestResultExport/obj/Debug/net6.0/AZDOTestResultExport.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AZDOTestResultExport/1.0.0": {
+        "runtime": {
+          "AZDOTestResultExport.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AZDOTestResultExport/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
